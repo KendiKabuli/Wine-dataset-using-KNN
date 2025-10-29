@@ -65,7 +65,7 @@ The goal is to build a model that can accurately predict the **wine quality** sc
 
 > The model performs best on class_0 and class_1, and slightly lower on class_2 due to fewer samples.
 
-## Learnings
+## What i have learned:
 
 - KNN relies on **distance-based classification** — closer neighbors determine the class.  
 - The number of neighbors (`k`) affects performance; 5 worked reasonably well here.  
